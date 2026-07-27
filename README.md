@@ -9,8 +9,8 @@ tarjeta, y **pérdida esperada** para priorización interna.
 
 ## 🎥 Explicación y presentación del proyecto
 
-<!-- VIDEO -->
-> _Placeholder — embeber acá el video._
+
+[![Ver el video](https://img.youtube.com/vi/mzosDtNB2WY/maxresdefault.jpg)](https://youtu.be/mzosDtNB2WY)
 
 ---
 
