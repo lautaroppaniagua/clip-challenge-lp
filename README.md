@@ -10,7 +10,7 @@ tarjeta, y **pérdida esperada** para priorización interna.
 ## 🎥 Explicación y presentación del proyecto
 
 
-[![Ver el video](https://img.youtube.com/vi/mzosDtNB2WY/maxresdefault.jpg)](https://youtu.be/mzosDtNB2WY)
+<a href="https://www.youtube.com/watch?v=mzosDtNB2WY"><img src="src/thumbnail.jpg" alt="Ver presentación del proyecto" width="800"></a>
 
 ---
 
@@ -106,7 +106,7 @@ tramos ordenan riesgo y no tamaño.
 Los parquets de entrada no están versionados por peso. Colocarlos en `data/` y:
 
 ```bash
-pip install -r requirements.txt'
+pip install -r requirements.txt
 ```
 
 Después `eda.ipynb` (genera `features_v2.parquet`) y `model.ipynb` (genera el
